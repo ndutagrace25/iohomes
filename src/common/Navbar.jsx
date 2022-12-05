@@ -29,6 +29,9 @@ const Navbar = () => {
               Events
             </Link>
             <Link className="nav-link" to="/">
+              Dashboard
+            </Link>
+            <Link className="nav-link" to="/">
               My Profile
             </Link>
           </div>
