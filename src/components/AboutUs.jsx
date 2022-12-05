@@ -10,16 +10,17 @@ const AboutUs = () => {
       <div className="col-md-5">
         <div className="text-white fw-bold fs-3">About Us</div>
         <div className="text-white mt-3 fw-bold">
-          Simple! Our mission is to become the best design agency in the world!
+          Dozens of clubs. Hundreds of events. Transforming our Environment.
+          Join us now and experience it all.
         </div>
         <div className="my-3 text-white">
           <p className="header-paragraph">
-            We are the Central Environmental Club, dedicated to improving and
-            promoting environmental quality and sustainability on campus and in
-            the community. Activities that we do include: advocating for
-            sustainability on campus, adopt a stream, campus clean-up, recycling
-            awareness, compost initiatives, organizing Earth Day Events and film
-            showings, hiking, BBQs, and more
+            We offered events and activities of all kinds for students
+            interested in breading their horizons, creating amazing memories and
+            learning more about our environment. Across our website you’ll find
+            all you need to learn about the events, signup, and complete
+            payment. After the event share your photos and stories here and find
+            more activities to be a part of. Join the fun!
           </p>
         </div>
         <div>
