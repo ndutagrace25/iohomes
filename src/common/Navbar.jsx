@@ -20,7 +20,7 @@ const Navbar = () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div className="collapse navbar-collapse fs-5" id="navbarNavAltMarkup">
           <div className="navbar-nav me-auto mb-2 mb-lg-0">
             <Link className="nav-link active" aria-current="page" to="/">
               About Us
@@ -32,7 +32,7 @@ const Navbar = () => {
               My Profile
             </Link>
           </div>
-          <div className="d-flex align-items-center col-md-3 justify-content-between">
+          <div className="d-flex align-items-center col-md-4 justify-content-between">
             <Link className="nav-link active" aria-current="page" to="/">
               FAQ
             </Link>
